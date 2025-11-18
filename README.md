@@ -24,10 +24,10 @@ This project focuses on designing a **Power BI analytics dashboard** using the *
 
 The goal is to equip senior leaders with **clear, actionable insights** to:
 
-- **Understand overall business performance across markets and product categories**
-- **Identify high-growth and high-margin regions for market expansion**
-- **Evaluate product profitability and prioritize strategic SKUs**
-- **Support faster, data-driven decisions using real-time visual analytics**
+- Understand overall business performance across markets and product categories
+- Identify high-growth and high-margin regions for market expansion
+- Evaluate product profitability and prioritize strategic SKUs
+- Support faster, data-driven decisions using real-time visual analytics
 
 
 **👤 Who is this project for?**

@@ -7,7 +7,7 @@
 
 ## Table of Contents
 
-1. 📌 [Background & Overview](#background)
+1. 📌 [Background & Overview](#background--overview)
 2. 📁 [Dataset Description & Data Structure](#dataset-description--data-structure)
 3. 🧠 [Design Thinking Process](#design-thinking-process)
 4. 📊 [Key Insights & Visualizations](#key-insights--visualizations)
@@ -16,7 +16,7 @@
 
 ---
 
-## 📌 Background
+## 📌 Background & Overview
 
 **Objective:**
 

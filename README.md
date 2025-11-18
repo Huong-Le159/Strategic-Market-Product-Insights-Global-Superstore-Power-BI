@@ -3,9 +3,7 @@
 <img width="1599" height="892" alt="image" src="https://github.com/user-attachments/assets/b8f38e20-4282-4f93-9ae0-f5767d641149" />
 
 
-**Author:** Huong Le
-**Date:** March 2025
-**Tools Used:** BI
+**Author:** Huong Le | **Date:** March 2025 | **Tools Used:** Power BI
 
 ## Table of Contents
 1. [📌 Background & Overview](#background--overview)

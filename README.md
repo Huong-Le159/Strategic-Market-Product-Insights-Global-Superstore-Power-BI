@@ -4,9 +4,7 @@
 
 
 **Author:** Huong Le
-
 **Date:** March 2025
-
 **Tools Used:** BI
 
 ## Table of Contents

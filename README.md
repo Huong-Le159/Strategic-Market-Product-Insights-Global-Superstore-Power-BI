@@ -21,7 +21,7 @@
 
 **📖 What is this project about?**
 
-This project focuses on designing a **Power BI analytics dashboard** using the *Global Superstore* dataset, containing data from **Orders**, **Products**, **Customers**, **Regions**, and **Sales Representatives**.
+This project focuses on designing a **Power BI analytics dashboard** using the **Global Superstore Retail** dataset, containing data from **Orders**, **Products**, **Customers**, **Regions**, and **Sales Representatives**.
 
 The goal is to equip senior leaders with **clear, actionable insights** to:
 
@@ -37,15 +37,6 @@ The goal is to equip senior leaders with **clear, actionable insights** to:
 - **Business unit heads & sales managers** responsible for market and product decisions  
 - **Data analysts** who need standardized dashboards to reduce manual reporting  
 - **Strategy teams** planning expansion, pricing, or product investments  
-
-
-**❓Business Questions:**
-
-- How is the business performing across regions, categories, and time?  
-- Which markets offer the highest growth potential and profitability?  
-- Which sales representatives or regions outperform the rest—and why?  
-- Which product categories and sub-categories should be prioritized for investment? 
-- Where do return rates or declining margins indicate operational risks? 
 
 **🎯Project Outcome:**
 
